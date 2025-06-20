@@ -1,0 +1,98 @@
+.responsive-tab {
+                margin-top: 15px;
+            }
+            .responsive-tab ul {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+                border-bottom: 1px solid #ccc;
+                text-align: center;
+            }
+            .responsive-tab li {
+                display: inline-block;
+                padding: 0;
+                vertical-align: bottom;
+                margin-right: 15px;
+            }
+            .responsive-tab li .active {
+                color: #c6a0d5;
+                border-bottom-color: #9b59b6;
+            }
+
+            .responsive-tab a {
+                display: inline-block;
+                color: #9c9c9c;
+                text-decoration: none;
+                padding: 10px;
+                font-size: 18px;
+            }
+            .responsive-tab a.active {
+                border-bottom: 3px solid #fe8026;
+                position: relative;
+                bottom: -3px;
+                color: #fe8026;
+                outline: none;
+
+            }
+            .responsive-tab a.active:after {
+                content: "\f0d7";
+                font-family: "FontAwesome"; 
+                position: absolute;
+                bottom: -4px;
+                left: 0;
+                right: 0;
+                display: inline-block;                
+                width: 10px;
+                height: 10px;
+                margin: 0 auto;
+            }
+
+            .tabs > div {
+                display: none;
+                padding: 1rem;
+            }
+
+            .tabs > .active {
+                display: block;
+            }
+            
+            @media (max-width: 767px) {
+                .responsive-tab ul {                    
+                    position: relative;
+                    background: #fff;
+                    border: none;
+
+                }
+                .responsive-tab ul::after {
+                    content: "\f0c9";
+                    position: absolute;
+                    top: 12px;
+                    right: 15px;
+                    z-index: 2;
+                    pointer-events: none;
+                    font-size: 17px;
+                    font-family: "FontAwesome"; 
+                }
+
+                .responsive-tab li {
+                    display: block;
+                }
+                .responsive-tab a {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    border-color: transparent;
+                }
+                .responsive-tab ul.open a {
+                    position: relative;
+                    display: block;
+                    border-color: #fe8026;
+                }
+                .responsive-tab a.active {                   
+                    z-index: 1;
+                    background: #fff;
+
+                }
+            }

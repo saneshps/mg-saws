@@ -1,0 +1,1633 @@
+/* Latop Device :1200px. */
+@media (min-width: 2001px) and (max-width: 2800px) {
+
+    .product-face-1 h2 {
+        width: 50%;
+    }
+
+    .events-content {
+        height: 470px !important;
+    }
+
+    .exomos-border-lr:before {
+        left: 30px;
+    }
+
+    .exomos-border-lr:after {
+        right: 30px;
+    }
+
+
+
+
+
+}
+
+/* Latop Device :1200px. */
+@media (min-width: 1501px) and (max-width: 2000px) {
+ 
+ .breadcrumb-content-box h1 { 
+        font-size: 50px; 
+    }
+    .relatedProduct h3 {
+        font-size: 2rem;
+    }
+
+    .product-face-1 h2 {
+        width: 50%;
+    }
+
+    .events-content {
+        height: 470px !important;
+    }
+
+    .exomos-border-lr:before {
+        left: 30px;
+    }
+
+    .exomos-border-lr:after {
+        right: 30px;
+    }
+
+    .btn-type-4 {
+        margin-left: 0;
+    }
+
+    .btn-type-5 {
+        margin-left: 0px;
+    }
+
+
+
+}
+
+/* Latop Device :1200px. */
+@media (min-width: 1201px) and (max-width: 1500px) {
+
+    .breadcrumb-content-box h1 { 
+        font-size: 45px; 
+    }
+    .product-page p { 
+        padding: 0 80px;
+        margin-bottom: 30px;
+    }
+
+    .product-page h2 { 
+        font-size: 32px; 
+        margin-bottom: 10px;
+    }
+
+    .main-menu nav>ul>li>a {
+        font-size: 15px;
+        padding: 10px 8px;
+    }
+
+    .relatedProduct h3 {
+        font-size: 2rem;
+    }
+
+    .exomos-slider-area-content h1 {
+        font-size: 4rem;
+    }
+
+    .over-lap-boxes {
+        top: -350px;
+    }
+
+    .flip-card {
+        height: 260px;
+    }
+
+    .flip-card-back h2 {
+        font-size: 1.5rem;
+    }
+
+    .flip-card-back i {
+        font-size: 1.2rem;
+    }
+
+    .flip-card-front img {
+        border: 10px solid #fff;
+    }
+
+    .flip-card-front .box-name h2 {
+        font-size: 1.6rem;
+    }
+
+    .flip-card-front .box-name i {
+        font-size: 1.4rem;
+    }
+
+    .why-choose-us-area .why-icon-second {
+        height: 280px;
+    }
+
+    .why-choose-us-area .why-icon-first {
+        height: 280px;
+    }
+
+    .why-choose-us-area h2 {
+        font-weight: 600;
+    }
+
+    .services-area h2 {
+        font-weight: 600;
+    }
+
+    .pro-categories-area h2 {
+        font-weight: 600;
+    }
+
+    .why-choose-us-area.home h2 {
+        font-weight: 600;
+    }
+
+    .why-choose-us-area {
+        padding: 50px 0 60px 0;
+    }
+
+    .videos-bg-img::before {
+        border: 8px solid #ed1c24;
+        width: 84%;
+        height: 76%;
+        top: -34px;
+        left: -110px;
+        right: 0;
+    }
+
+    .exomos-slider-area-content h2 {
+        font-size: 3rem;
+    }
+
+    .product-face-1 h2 {
+        width: 60%;
+    }
+
+    .events-content {
+        height: 470px !important;
+    }
+
+    .exomos-border-lr:before {
+        left: 30px;
+    }
+
+    .exomos-border-lr:after {
+        right: 30px;
+    }
+
+    .box img {
+        width: 100%;
+        height: 230px;
+    }
+
+    .news-area {
+        padding: 60px 0 0 0;
+    }
+
+}
+
+
+/* LG  Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .breadcrumb-content-box h1 { 
+        font-size: 35px; 
+    }
+
+    .product-page p { 
+        padding: 0 30px;
+        margin-bottom: 20px;
+    }
+
+    .product-page h2 { 
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+    .search_bar {
+        width: 100%;
+    }
+
+    .search_bar form {
+        margin: 33px 0;
+    }
+
+    .search_bar fieldset {
+        padding: 0;
+    }
+
+    .search-suggest input {
+        height: 2.5em;
+    }
+
+    .search-suggest button {
+        top: 2px;
+        right: 0;
+        height: 2.5em;
+    }
+
+
+
+
+    .relatedProduct h3 {
+        font-size: 1.8rem;
+        margin: 30px 0 20px 0;
+    }
+
+
+    .exomos-slider-area-content h2 {
+        font-size: 2.2rem;
+    }
+
+
+    .flip-card {
+        height: 220px;
+    }
+
+    .flip-card-back h2 {
+        font-size: 1.2rem;
+    }
+
+    .flip-card-back i {
+        font-size: 1.2rem;
+    }
+
+    .flip-card-front img {
+        border: 8px solid #fff;
+    }
+
+    .flip-card-front .box-name h2 {
+        font-size: 1.3rem;
+    }
+
+    .flip-card-front .box-name i {
+        font-size: 1.5rem;
+    }
+
+    .over-lap-boxes {
+        top: -260px;
+    }
+
+    .over-lap-boxes .over-lap-box {
+        border: 8px solid #fff;
+    }
+
+    .exomos-slider-area-content h1 {
+        font-size: 3.2rem;
+    }
+
+    .pro-categories-area .categories-box {
+        height: 240px;
+    }
+
+
+    .why-choose-us-area h2 {
+        font-size: 2.2rem;
+        font-weight: 600;
+    }
+
+    .why-choose-us-area.home h2 {
+        font-size: 2.2rem;
+        font-weight: 600;
+    }
+
+    .services-area h2 {
+        font-size: 2.2rem;
+        font-weight: 600;
+    }
+
+    .pro-categories-area h2 {
+        font-size: 2.2rem;
+        font-weight: 600;
+    }
+
+    .why-choose-us-area.home .why-icon-second {
+        height: 250px;
+    }
+
+    .why-choose-us-area.home .why-icon-first {
+
+        height: 250px;
+    }
+
+    .why-choose-us-area.home {
+        padding: 30px 0 20px 0;
+    }
+
+    .why-choose-us-area {
+        padding: 30px 0 20px 0;
+    }
+
+    .exomos-contact-area img {
+        padding-left: 10px;
+    }
+
+
+
+    .section-title h3 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .videos-bg-img::before {
+        border: 6px solid #ed1c24;
+        width: 85%;
+        height: 60%;
+        top: -21px;
+        left: 0;
+        right: -60px;
+    }
+
+
+    .why-choose-us-area .why-icon-second {
+        margin: 0 0px 40px 0px;
+        height: 310px;
+    }
+
+    .why-choose-us-area .why-icon-first {
+        margin: 0 0px 40px 0;
+        height: 310px;
+    }
+
+    .btn-type-4 {
+        margin: 20px 0 20px 8px;
+        padding: 5px 16px;
+        font-size: 15px;
+    }
+
+    .exomos-nav-area.nav-fixed {
+        padding-top: 0px;
+    }
+
+
+    .btn.blue {
+
+        font-size: 13px !important;
+        margin-bottom: 20px;
+    }
+
+    .swiper-wrapper.sw-l img {
+        height: 80px;
+
+    }
+
+    .swiper-wrapper.sw-h img {
+        height: 270px;
+    }
+
+    .product-face-1 h2 {
+        width: 60%;
+    }
+
+    .box .title {
+        font-size: 17px;
+    }
+
+    .box img {
+        width: 100%;
+        height: 230px;
+    }
+
+    .single-blog-content {
+        height: 350px;
+    }
+
+
+    .events-content {
+        height: 340px !important;
+    }
+
+    .al-cnt::after {
+        display: none;
+    }
+
+    .exomos-border-lr:before {
+        left: 30px;
+    }
+
+    .exomos-border-lr:after {
+        right: 30px;
+    }
+
+    .single-services {
+        padding: 30px 14px 10px 14px;
+    }
+
+    .single-services p {
+        font-size: 15px;
+    }
+
+    .cta-content-box h2 {
+        font-size: 40px;
+    }
+
+    .spacer {
+        height: 0;
+    }
+
+    .exomos-blog-area.blog-bg {
+        height: 100%;
+    }
+
+
+
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .breadcrumb-content-box h1 { 
+        font-size: 30px; 
+    }
+    .product-page p { 
+        padding: 0 10px;
+        margin-bottom: 20px;
+    }
+
+    .product-page h2 { 
+        font-size: 25px;
+        margin-bottom: 7px; 
+    }
+    .search {
+        display: none;
+    }
+
+    .relatedProduct h3 {
+        font-size: 1.5rem;
+        margin: 20px 0 10px 0;
+    }
+
+    .tabs {
+        padding: 30px 0 0 15px;
+    }
+
+    .product-face-1 h2 {
+        margin: 40px 0px 30px 0px;
+    }
+
+    .responsive-table {
+        margin: 10px 0 20px 0px;
+    }
+
+    .over-lap-boxes {
+        display: none;
+    }
+
+    .why-choose-us-area.home {
+        padding: 50px 0 10px 0;
+    }
+
+
+    .why-choose-us-area.home .why-icon-first {
+        margin: 0 0px 40px 0;
+        height: auto;
+    }
+
+    .why-choose-us-area.home .why-icon-second {
+        margin: 0 0px 40px 0px;
+        height: auto;
+    }
+
+
+    .why-choose-us-area h2 {
+        font-size: 2.2rem;
+        font-weight: 600;
+    }
+
+    .services-area h2 {
+        font-size: 2.2rem;
+        font-weight: 600;
+    }
+
+    .pro-categories-area h2 {
+        font-size: 2.2rem;
+        font-weight: 600;
+    }
+
+    .why-choose-us-area.home h2 {
+        font-size: 2.2rem;
+        font-weight: 600;
+    }
+
+    .why-choose-us-area {
+        padding: 30px 0 20px 0;
+    }
+
+    .why-choose-us-area .why-icon-first {
+        margin: 0 0px 40px 0;
+        height: auto;
+    }
+
+    .why-choose-us-area .why-icon-second {
+        margin: 0 0px 40px 0px;
+        height: auto;
+    }
+
+    .exomos-contact-area img {
+        padding-left: 10px;
+        margin-top: 50px;
+    }
+
+    .exomos-contact-info-area {
+        margin: 50px 0 0 0;
+    }
+
+
+
+    .section-title {
+        margin-bottom: 0px;
+    }
+
+    .section-title h3 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .videos-wraper-area .face2 {
+        padding: 90px 0 0 0px;
+    }
+
+    .videos-bg-img::before {
+        width: 85%;
+        height: 112%;
+        left: 0;
+    }
+
+    .exomos-nav-area.nav-fixed {
+        padding-top: 0px;
+    }
+
+
+    .product-face-1 h2 {
+        width: 100%;
+    }
+
+    .single-sid-wdg {
+        padding: 18px 0 7px 15px;
+    }
+
+    .post-slide .pic img {
+        height: 100px;
+    }
+
+
+    .box .title {
+        font-size: 12px;
+    }
+
+
+
+    .box img {
+        height: 180px;
+    }
+
+
+    .single-blog-content {
+        height: 310px;
+    }
+
+
+    .events-content {
+        height: 713px !important;
+    }
+
+    .graph-2 {
+        padding: 0;
+    }
+
+    .exomos-main-slider.owl-theme .owl-nav.disabled+.owl-dots {
+        left: 46%;
+    }
+
+    .videos-bg-img {
+        padding: 0;
+    }
+
+    .al-cnt::after {
+        display: none;
+    }
+
+    .contact-info-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .youtube-area .face1 {
+        padding: 20px;
+    }
+
+    .product-page h5 {
+        font-size: 13px;
+        padding: 17px 0 14px 0px;
+    }
+
+    .product-page .box {
+
+        margin: 0;
+
+    }
+
+    .about-area .face-2 {
+        padding: 0 15px 0 15px;
+        text-align: justify;
+    }
+
+    .about-area {
+        padding: 60px 0;
+    }
+
+    .exomos-breadcrumb-area {
+        padding: 120px 0 80px 0;
+    }
+
+    .future-face1 {
+        padding-bottom: 60px;
+    }
+
+    .future-face1 h2 {
+        font-size: 2rem;
+    }
+
+    .future-area {
+        padding: 0px 0 50px 0px;
+    }
+
+    .found-face1 {
+        padding: 10px 50px 50px 30px;
+    }
+
+    .foundation-area {
+        padding: 10px 0 50px 0px;
+    }
+
+    .usp-area .face-1 {
+        padding-top: 20px;
+    }
+
+    .found-face1 h1 {
+        font-size: 2.5rem;
+    }
+
+    .breadcrumb-content-box h2 {
+        font-size: 26px;
+    }
+
+    .search-form-centered {
+        width: 90%;
+    }
+
+    .product-area .face-2 img {
+        clip-path: none;
+        padding-top: 30px;
+    }
+
+    .usp-area .face-2 img {
+        clip-path: none;
+        padding-top: 30px;
+    }
+
+    .exomos-border-lr:before {
+        left: 30px;
+    }
+
+    .exomos-border-lr:after {
+        right: 30px;
+    }
+
+    ul.header-search-social {
+        margin-right: 80px;
+        padding: 26px 0 0 0;
+    }
+
+    .header-logo {
+        padding: 26px 0 0 0;
+    }
+
+    ul.header-short-info li {
+        margin-right: 11px;
+    }
+
+    ul.header-short-info li:last-child {
+        margin-right: 0;
+    }
+
+    .exomos-slider-area-content h2 {
+        font-size: 2.6rem;
+    }
+
+    .exomos-slider-area-content h1 {
+        font-size: 3.8rem;
+    }
+
+    .product-area {
+        padding: 50px 0 70px 0;
+        text-align: justify;
+    }
+
+    .border-r:before,
+    .border-b:before {
+        display: none;
+    }
+
+    .single-services {
+        padding: 30px 30px 0px 30px;
+    }
+
+    .videos-content-area {
+        padding: 20px 7px;
+        text-align: justify;
+    }
+
+    .exomos-counter-area {
+        margin: 30px 0 35px;
+    }
+
+    .exomos-team-area {
+        margin: 50px 0 50px;
+    }
+
+    .cta-content-box-wraper {
+        padding: 120px 30px;
+    }
+
+    .cta-content-box h2 {
+        font-size: 28px;
+    }
+
+    .cta-img {
+        right: 0;
+    }
+
+    .exomos-blog-area {
+        height: 100%;
+    }
+
+    .spacer {
+        height: 0;
+    }
+
+    .exomos-blog-area.blog-bg {
+        height: 100%;
+    }
+
+
+
+
+
+
+
+}
+
+
+/* small mobile (XS) :320px. */
+@media only screen and (min-width: 150px) and (max-width: 767px) {
+
+    .breadcrumb-content-box h1 { 
+        font-size: 25px; 
+    }
+
+    .product-page p { 
+        padding: 0;
+        margin-bottom: 20px;
+        text-align: justify;
+    }
+    .product-page h2 { 
+        font-size: 25px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .search {
+        display: none;
+    }
+
+    .expres-intrest .btn {
+        margin-left: 0;
+    }
+
+    .expres-intrest {
+        text-align: center;
+    }
+
+    .relatedProduct h3 {
+        font-size: 1.4rem;
+        margin: 20px 0 10px 0;
+    }
+
+    .serviceBox.middle .service-content {
+        padding: 20px 10px 40px;
+    }
+
+    .serviceBox .service-content {
+        height: 320px;
+    }
+
+
+
+    .slider-area-btn .btn:first-child {
+        margin-right: 2px;
+    }
+
+
+    .product-face-1 h2 {
+        margin: 40px 0px 30px 0px;
+    }
+
+    .responsive-table {
+        margin: 10px 0;
+    }
+
+    .slider-area-btn a:nth-child(2) {
+        font-size: 13px;
+        padding: 12px 0;
+        width: 130px;
+    }
+
+
+    .slider-area-btn a:nth-child(1) {
+        font-size: 13px;
+        padding: 12px 0;
+        width: 130px;
+    }
+
+    .over-lap-boxes {
+        display: none;
+    }
+
+
+    .why-choose-us-area.home h2 {
+        font-size: 2rem;
+    }
+
+    .why-choose-us-area.home {
+        padding: 40px 0 10px 0;
+    }
+
+
+    .why-choose-us-area h2 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+
+    .services-area h2 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+
+    .pro-categories-area h2 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+
+    .why-choose-us-area {
+        padding: 30px 0 10px 0;
+    }
+
+    .why-choose-us-area .why-icon-second {
+        padding: 30px 10px 20px 0px;
+        height: auto;
+        margin: 0 0px 40px 0px;
+        text-align: center;
+    }
+
+    .why-choose-us-area .why-icon-first {
+        padding: 30px 10px 20px 0px;
+        height: auto;
+        margin: 0 0px 40px 0;
+        text-align: center;
+    }
+
+    .why-choose-us-area.home .why-icon-first {
+        padding: 30px 10px 20px 0px;
+        height: auto;
+        margin: 0 0px 40px 0;
+        text-align: center;
+    }
+
+    .why-choose-us-area.home .why-icon-second {
+        padding: 30px 10px 20px 0px;
+        height: auto;
+        margin: 0 0px 40px 0px;
+        text-align: center;
+    }
+
+    .why-choose-us-area.home .why-icon-first .why-icon-box img {
+        margin: 0px 0 20px 0px;
+    }
+
+
+    .exomos-contact-area {
+        margin-top: 120px !important;
+    }
+
+    .exomos-contact-info-area {
+        margin: 50px 0 0 0;
+    }
+
+    .about-area .face-1 img {
+        width: 100%;
+        float: none;
+        margin: 0;
+    }
+
+
+
+    .videos-wraper-area .face2 {
+        padding: 80px 0 0 10px;
+    }
+
+    .videos-bg-img::before {
+        width: 85%;
+        height: 120%;
+        left: 0;
+    }
+
+
+    .btn-type-4 {
+        font-size: 13px;
+        padding: 7px 14px;
+        margin: 20px 0 0 25px;
+    }
+
+
+    .footer-single-wedget h3 {
+        font-size: 16px;
+    }
+
+
+    .btn-type-1 {
+        font-size: 16px;
+        padding: 15px 20px;
+        border: 1px solid #c42414;
+    }
+
+    .swiper-wrapper.sw-h img {
+        height: 230px;
+
+    }
+
+    .swiper-wrapper.sw-l img {
+        height: 60px;
+    }
+
+    .product-face-1 h2 {
+        width: 100%;
+    }
+
+    .news-area {
+        padding: 20px 0;
+    }
+
+    .feeds {
+        padding-top: 30px;
+    }
+
+    .post-slide .post-description {
+        height: 40px;
+    }
+
+    .post-slide .pic img {
+        height: 100px;
+    }
+
+    .box .title {
+        font-size: 10px;
+    }
+
+
+
+    .box img {
+        height: 140px;
+    }
+
+
+    .single-blog-content {
+        height: 360px;
+    }
+
+
+    .events-content {
+        height: 510px !important;
+    }
+
+    .catalogue-area {
+        padding: 50px 0 0px 0;
+    }
+
+    .btn.blue {
+        font-size: 12px !important;
+    }
+
+    .section-title h4 {
+        margin-bottom: 5px !important;
+        font-size: 1.2rem !important;
+    }
+
+    .exomos-nav-area {
+        background: none;
+    }
+
+    .exomos-main-slider.owl-theme .owl-nav.disabled+.owl-dots {
+        left: 45%;
+    }
+
+    .exomos-slider-area::after {
+        display: none;
+    }
+
+    .videos-bg-img {
+        padding: 0;
+    }
+
+    .contact-info-box {
+        display: block;
+        text-align: center;
+        margin-bottom: 30px;
+        min-height: auto;
+    }
+
+    .youtube-area .face1 {
+        padding: 10px;
+    }
+
+    .al-cnt::after {
+        display: none;
+    }
+
+    .product-page h5 {
+        font-size: 10px;
+        padding: 10px 0;
+    }
+
+    .product-page .box {
+        border-radius: 4px;
+        margin: 0;
+
+    }
+
+    .about-area .face-2 {
+        padding: 0 15px 0 15px;
+        text-align: justify;
+    }
+
+    .about-area {
+        padding: 20px 0 20px 0;
+    }
+
+    .exomos-breadcrumb-area {
+        padding: 120px 0 80px 0;
+    }
+
+    .future-face1 {
+        padding: 20px 20px 60px 20px;
+        text-align: left;
+    }
+
+    .future-face1 h2 {
+        font-size: 1.2rem;
+    }
+
+    .future-area {
+        padding: 0px 0 50px 0px;
+    }
+
+    .philosophy-face1 h1 {
+        font-size: 2rem;
+    }
+
+    .philosophy-face1 h1 {
+        font-size: 2rem;
+    }
+
+    .found-face1 {
+        padding: 10px 50px 50px 30px;
+    }
+
+    .foundation-area {
+        padding: 10px 0 50px 0px;
+    }
+
+    .usp-area .face-1 {
+        padding-top: 20px;
+    }
+
+    .found-face1 h1 {
+        font-size: 1.3rem;
+    }
+
+    .header-logo img {
+        width: 50px;
+        top: -14px;
+    }
+
+    .breadcrumb-content-box h2 {
+        font-size: 24px;
+    }
+
+    .product-details {
+        padding: 40px 0 50px 0;
+    }
+
+    .exomos-nav-area {
+        height: 60px;
+        padding-top: 20px !important;
+    }
+
+    .search-form-centered {
+        width: 90%;
+    }
+
+    .exomos-border-lr:before {
+        left: 30px;
+    }
+
+    .exomos-border-lr:after {
+        right: 30px;
+    }
+
+    ul.header-search-social {
+        margin-right: 80px;
+        padding: 26px 0 0 0;
+    }
+
+    .header-logo {
+        padding: 26px 0 0 0;
+    }
+
+    ul.header-short-info li {
+        margin-right: 30px;
+        display: inline-block;
+    }
+
+    ul.header-short-info .short-info {
+        margin-top: 10px;
+    }
+
+    ul.header-short-info li:last-child {
+        margin-right: 0;
+    }
+
+    .exomos-lang {
+        text-align: center;
+        float: inherit !important;
+        margin: 25px 0 0 0;
+    }
+
+
+
+    .product-area .face-2 img {
+        clip-path: none;
+    }
+
+    .usp-area .face-2 img {
+        clip-path: none;
+    }
+
+    .border-r:before,
+    .border-b:before {
+        display: none;
+    }
+
+    .single-services {
+        padding: 30px 30px 0px 30px;
+    }
+
+    .videos-img {
+        position: inherit;
+        height: auto;
+        width: 100%;
+    }
+
+    .exomos-counter-area {
+        margin: 30px 0 35px;
+    }
+
+    .exomos-team-area {
+        margin: 50px 0 50px;
+    }
+
+    .cta-content-box-wraper {
+        padding: 100px 30px;
+    }
+
+    .cta-content-box h2 {
+        font-size: 32px;
+        margin: 20px 0 35px;
+    }
+
+    .cta-btn {
+        margin: 0;
+        float: inherit;
+    }
+
+    .cta-img {
+        display: none;
+    }
+
+    .exomos-blog-area {
+        height: 100%;
+    }
+
+    .spacer {
+        height: 0;
+    }
+
+    .exomos-blog-area.blog-bg {
+        height: 100%;
+    }
+
+    .exomos-contact-form-area {
+        margin-top: -100px;
+    }
+
+
+
+
+
+
+
+}
+
+
+/* SM Device :480px. */
+@media (min-width: 150px) and (max-width: 575px) {
+
+    .usp-area .face-1 h1 {
+        font-size: 1.8rem;
+    }
+
+    .featured-product-area .post-slide .product-grid .title {
+        font-size: 15px;
+    }
+
+    .counter-area {
+        padding: 10px 0;
+    }
+
+    .featured-product-area h2 {
+        font-size: 1.5rem;
+    }
+
+    .single-counter {
+        margin-bottom: 60px;
+        background: #ffffff1f;
+        padding: 30px 0;
+    }
+
+
+    .featured-product-area h2::before {
+        bottom: 5px;
+        width: 40px;
+        height: 20px;
+    }
+
+    .videos-content-area a {
+        padding: 13px 20px;
+    }
+
+    .al-cnt::after {
+        display: none;
+    }
+
+    .exomos-border-lr:before {
+        left: 30px;
+    }
+
+    .exomos-border-lr:after {
+        right: 30px;
+    }
+
+    ul.header-search-social {
+        display: none;
+    }
+
+    .header-logo {
+        padding: 26px 0 0 0;
+    }
+
+    ul.header-short-info li {
+        margin: 0 0 15px;
+        display: block;
+    }
+
+    ul.header-short-info .short-info {
+        margin-top: 10px;
+    }
+
+    ul.header-short-info li:last-child {
+        margin-right: 0;
+    }
+
+    .exomos-lang {
+        float: inherit !important;
+        margin: 15px 0 0 0;
+    }
+
+    .videos-content-area {
+        padding: 0 0px;
+        margin: 10px 0;
+    }
+
+    .graph-2 {
+        padding: 0 16px 20px 16px;
+    }
+
+    .videos-bg-img .face2 {
+        padding: 0;
+    }
+
+    .usp-area .face-2 img {
+        clip-path: none;
+    }
+
+    .usp-area .face-1 p {
+        text-align: justify;
+    }
+
+    .about-content-area p {
+        text-align: justify;
+    }
+
+    .videos-content-area p {
+        text-align: left;
+    }
+
+    .product-area .face-1 p {
+        text-align: justify;
+    }
+
+    .product-area .face-2 img {
+        clip-path: none;
+    }
+
+    .exomos-slider-area-content h2 {
+        font-size: 1.5rem !important;
+    }
+
+    .exomos-slider-area-content h1 {
+        font-size: 2.8rem;
+    }
+
+    .exomos-slider-area-content h4 {
+        font-size: 1rem;
+    }
+
+    .exomos-videos-area .section-title h3 {
+        font-size: 2.2rem;
+    }
+
+    .mt-100 {
+        margin-top: 50px;
+    }
+
+    .product-area {
+        padding: 0px 0 70px 0;
+    }
+
+    .product-area .face-1 {
+
+        padding-bottom: 40px;
+    }
+
+    .usp-area .face-2 {
+        padding-bottom: 20px;
+    }
+
+
+    .exomos-single-slider p {
+        font-size: 16px;
+    }
+
+    .border-r:before,
+    .border-b:before {
+        display: none;
+    }
+
+    .single-services {
+        padding: 30px 30px 0px 30px;
+    }
+
+    .videos-img {
+        position: inherit;
+        height: auto;
+        width: 100%;
+    }
+
+    .exomos-counter-area {
+        margin: 30px 0 35px;
+    }
+
+    .exomos-team-area {
+        margin: 50px 0 50px;
+    }
+
+    .cta-content-box-wraper {
+        padding: 100px 30px;
+    }
+
+    .cta-content-box h2 {
+        font-size: 32px;
+        margin: 20px 0 35px;
+    }
+
+    .cta-btn {
+        margin: 0;
+        float: inherit;
+    }
+
+    .cta-img {
+        display: none;
+    }
+
+    .exomos-blog-area {
+        height: 100%;
+    }
+
+    .spacer {
+        height: 0;
+    }
+
+    .exomos-blog-area.blog-bg {
+        height: 100%;
+    }
+
+    .section-title h3 {
+        font-size: 1.8em;
+        padding-top: 0px;
+        margin: 0;
+    }
+
+    .about-slider-area .owl-nav div,
+    .testimonial-wraper .owl-nav div,
+    .exomos-all-team-wraper .owl-nav div {
+        right: 50%;
+        top: 100%;
+    }
+
+
+    .about-slider-area .owl-nav div.owl-next,
+    .testimonial-wraper .owl-nav div.owl-next,
+    .exomos-all-team-wraper .owl-nav div.owl-next {
+        right: auto;
+    }
+
+    .blog-post-comment {
+        float: inherit !important;
+        margin: 15px 0;
+    }
+
+   
+
+    .exomos-contact-form-area {
+        margin-top: -100px;
+        padding: 30px 0;
+    }
+
+    .exomos-contact-form input.form-control {
+        margin-bottom: 20px;
+    }
+
+    .fm-bg {
+        margin-bottom: 7px;
+    }
+
+}
+
+/* SM Device :480px. */
+@media (max-width: 360px) {
+    .exomos-border-lr:before {
+        left: 30px;
+    }
+
+    .exomos-border-lr:after {
+        right: 30px;
+    }
+
+    ul.header-search-social {
+        display: none;
+    }
+
+    .header-logo {
+        padding: 26px 0 0 0;
+    }
+
+    ul.header-short-info li {
+        margin: 0 0 15px;
+        display: block;
+    }
+
+    ul.header-short-info .short-info {
+        margin-top: 10px;
+    }
+
+    ul.header-short-info li:last-child {
+        margin-right: 0;
+    }
+
+    .exomos-lang {
+        float: inherit !important;
+        margin: 15px 0 0 0;
+    }
+
+
+
+    .exomos-single-slider p {
+        font-size: 16px;
+    }
+
+    .border-r:before,
+    .border-b:before {
+        display: none;
+    }
+
+    .single-services {
+        padding: 30px 30px 0px 30px;
+    }
+
+    .videos-img {
+        position: inherit;
+        height: auto;
+        width: 100%;
+    }
+
+    .exomos-counter-area {
+        margin: 30px 0 35px;
+    }
+
+    .exomos-team-area {
+        margin: 50px 0 50px;
+    }
+
+    .cta-content-box-wraper {
+        padding: 100px 30px;
+    }
+
+    .cta-content-box h2 {
+        font-size: 32px;
+        margin: 20px 0 35px;
+    }
+
+    .cta-btn {
+        margin: 0;
+        float: inherit;
+    }
+
+    .cta-img {
+        display: none;
+    }
+
+    .exomos-blog-area {
+        height: 100%;
+    }
+
+    .spacer {
+        height: 0;
+    }
+
+    .exomos-blog-area.blog-bg {
+        height: 100%;
+    }
+
+    .section-title h3 {
+        font-size: 25px;
+    }
+
+    .about-slider-area .owl-nav div,
+    .testimonial-wraper .owl-nav div,
+    .exomos-all-team-wraper .owl-nav div {
+        right: 50%;
+        top: 100%;
+    }
+
+
+    .about-slider-area .owl-nav div.owl-next,
+    .testimonial-wraper .owl-nav div.owl-next,
+    .exomos-all-team-wraper .owl-nav div.owl-next {
+        right: auto;
+    }
+
+    .blog-post-comment {
+        float: inherit !important;
+        margin: 15px 0;
+    }
+
+    .single-blog-content .post-title {
+        font-size: 16px;
+    }
+
+    .exomos-contact-form-area {
+        margin-top: -100px;
+        padding: 20px;
+    }
+
+}
+
+/* 
+@media (min-width: 1400px) {
+
+    .container {
+        max-width: 1440px;
+    }
+} */

@@ -1,0 +1,141 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+    
+    RewriteEngine On
+    ErrorDocument 404 https://www.mgsaws.com/
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Send Requests To Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ /index.php [L]
+	Redirect 301 /sierras-de-cinta-alimentadas https://www.mgsaws.com/
+    Redirect 301 /mb700h https://www.mgsaws.com/
+    Redirect 301 /aspiradores https://www.mgsaws.com/
+    Redirect 301 /copia-de-moza-5-rod https://www.mgsaws.com/
+    Redirect 301 /cpp4100 https://www.mgsaws.com/
+    Redirect 301 /empresa https://www.mgsaws.com/
+    Redirect 301 /ensambladora-de-perfiles https://www.mgsaws.com/
+    Redirect 301 /prensas-de-aluminio https://www.mgsaws.com/
+    Redirect 301 /carro-portaperfiles-portaventanas https://www.mgsaws.com/
+    Redirect 301 /mach450 https://www.mgsaws.com/
+    Redirect 301 /gaa6509cnc https://www.mgsaws.com/
+    Redirect 301 /gaa50090 https://www.mgsaws.com/
+    Redirect 301 /qc11y12x3100 https://www.mgsaws.com/
+    Redirect 301 /gaa3509cnc https://www.mgsaws.com/
+    Redirect 301 /front-450-aag-cnc?(*) https://www.mgsaws.com/
+    Redirect 301 /copia-de-tl-600-aag-cnc https://www.mgsaws.com/
+    Redirect 301 /www.dot.com  https://www.mgsaws.com/
+    Redirect 301 https://www.mgsaws.com/www.mgsaws.com/  https://www.mgsaws.com/
+    Redirect 301 /show-product/rafre-cr-a-aluminium-pvc-manual-corner-milling-machine  https://www.mgsaws.com/
+    Redirect 301 /show-product/rafre-cr-sa-aluminium-pvc-manual-corner-milling-machine  https://www.mgsaws.com/
+    Redirect 301 /news-details/automatic-cutting-machine-advantages-and-applications https://www.mgsaws.com/
+    Redirect 301 //rafre-cr-sa-aluminium-pvc-manual-corner-milling-machine https://www.mgsaws.com/
+    Redirect 301 //rafre-cr-a-aluminium-pvc-manual-corner-milling-machine https://www.mgsaws.com/
+	Redirect 301 /show-product/mini-rafre-sa-aluminiumpvc-corner-milling-machine https://www.mgsaws.com/show-product/050153-minirafre-m-aluminum-corner-milling-machine
+	Redirect 301 /show-product/rafre-cr-m-aluminium-pvc-manual-corner-milling-machine https://www.mgsaws.com/show-product/rafre-cr-m-aluminium-manual-corner-milling-machine
+    Redirect 301 /products/sub/31 https://www.mgsaws.com/all-products/sub/automatic-miter-cutting
+	Redirect 301 /front-450-aag-cnc https://www.mgsaws.com/show-product/front-450-aag-cnc
+	Redirect 301 /products/cat-sub/40 https://www.mgsaws.com/
+	Redirect 301 /products/sub/40  https://www.mgsaws.com/all-products/sub/crimping-machines
+	Redirect 301 /products/sub/38  https://www.mgsaws.com/
+	Redirect 301 /products/sub/34  https://mgsaws.com/all-products/sub/machining-centers
+	Redirect 301 /all-products/sub/automatic-cutting-and-drilling  https://www.mgsaws.com/all-products/sub/automatic-cutting-and-drilling-machine
+	Redirect 301 /all-products/sub/automatic-cutting-90-degree  https://www.mgsaws.com/all-products/sub/automatic-cutting-90-degree-machine
+	Redirect 301 /all-products/sub/automatic-cutting  https://www.mgsaws.com/all-products/sub/automatic-cutting-machine
+        Redirect 301 /all-products/sub/single-blade-saw  https://www.mgsaws.com/all-products/sub/single-head-cutting-machine
+        Redirect 301 /all-products/sub/double-head-sawing  https://www.mgsaws.com/all-products/sub/double-head-cutting-machine
+        Redirect 301 /all-products/sub/corner-milling  https://www.mgsaws.com/all-products/sub/corner-milling-machine
+        Redirect 301 /all-products/sub/crimping-machines  https://www.mgsaws.com/all-products/sub/corner-crimping-machines
+        Redirect 301 /all-products/sub/end-milling-machines  https://www.mgsaws.com/all-products/sub/corner-milling-machine
+    </IfModule>
+	<IfModule mod_expires.c>
+  ExpiresActive On
+
+ # Images
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType image/x-icon "access plus 1 year"
+
+  # Video
+  ExpiresByType video/webm "access plus 1 year"
+  ExpiresByType video/mp4 "access plus 1 year"
+  ExpiresByType video/mpeg "access plus 1 year"
+
+  # Fonts
+  ExpiresByType font/ttf "access plus 1 year"
+  ExpiresByType font/otf "access plus 1 year"
+  ExpiresByType font/woff "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType application/font-woff "access plus 1 year"
+
+  # CSS, JavaScript
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType text/javascript "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+
+  # Others
+  ExpiresByType application/pdf "access plus 1 year"
+  ExpiresByType image/vnd.microsoft.icon "access plus 1 year"
+</IfModule>
+<IfModule mod_deflate.c>
+# Compress HTML, CSS, JavaScript, Text, XML and fonts
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+AddOutputFilterByType DEFLATE application/x-font
+AddOutputFilterByType DEFLATE application/x-font-opentype
+AddOutputFilterByType DEFLATE application/x-font-otf
+AddOutputFilterByType DEFLATE application/x-font-truetype
+AddOutputFilterByType DEFLATE application/x-font-ttf
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE font/opentype
+AddOutputFilterByType DEFLATE font/otf
+AddOutputFilterByType DEFLATE font/ttf
+AddOutputFilterByType DEFLATE image/svg+xml
+AddOutputFilterByType DEFLATE image/x-icon
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/javascript
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/xml
+
+# Remove browser bugs (only needed for really old browsers)
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+Header append Vary User-Agent
+</IfModule>
+<ifModule mod_gzip.c>
+mod_gzip_on Yes
+mod_gzip_dechunk Yes
+mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
+mod_gzip_item_include handler ^cgi-script$
+mod_gzip_item_include mime ^text/.*
+mod_gzip_item_include mime ^application/x-javascript.*
+mod_gzip_item_exclude mime ^image/.*
+mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
+</ifModule>
+
+# compress HTML
+<files *.html>
+SetOutputFilter DEFLATE
+</files>
+# GZIP COMPRESSION
+
+ 

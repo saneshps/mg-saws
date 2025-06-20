@@ -1,0 +1,1918 @@
+@extends('welcome')
+    @section('meta')
+        <title>Aluminum Cutting& Drilling Machines UAE,OMAN,GCC|TRONZADORAS MG </title>
+        <meta name="description" content="We are the best Aluminum Cutting& Drilling Machine Manufacturer in GCC with branches in Oman,UAE,Saudi,Bahrain,Qatar,Kuwait,Qatar offering advanced equipments"> 
+        
+    @endsection 
+
+@section('content')
+
+
+<div id="exomos-slider-area" class="exomos-slider-area slider-area-bg">
+
+    <div class="exomos-main-slider owl-carousel owl-theme">
+
+        <div class="exomos-single-slider">
+            <div class="slid-bg-1"> </div>
+
+            <div class="exomos-single-table">
+                <div class="exomos-single-tablecell">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-12 col-lg-12 col-md-12 al-cnt">
+                                <div class="exomos-slider-area-content">
+                                    <div style="width:150px; height:auto; background-color:grey;   right: 0.6em; position: absolute; bottom: 4em;">
+                                        <img src="{{ asset('frontend/img/future.jpg') }}" alt="" style="padding:3px;">
+                                    </div>
+                                    <h4><span></span>WELCOME TO</h4>
+                                    <h2> TRONZADORAS MG </h2>
+                                    <h1> MACHINES <span><img class="head-img" src=" {{ asset('frontend/img/bull.png') }}" alt=""></span> STRONG </h1>
+
+                                    <div class="slider-area-btn">
+                                        <a href="{{ url('all-products') }}" class="btn btn-type-1">Products <i class="fa fa-long-arrow-right"></i> </a>
+                                        <a href="https://www.youtube.com/watch?v=IqRL0xSYh30" class="btn btn-type-2 slider-popup"><i class="fa fa-play"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="exomos-single-slider">
+            <div class="slid-bg-2"></div>
+            <div class="exomos-single-table">
+                <div class="exomos-single-tablecell">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-12 col-lg-12 col-md-12 al-cnt">
+                                <div class="exomos-slider-area-content">
+                                    <div style="width:150px; height:auto; background-color:grey;   right: 0.6em; position: absolute; bottom: 4em;">
+                                        <img src="{{ asset('frontend/img/future.jpg') }}" alt="" style="padding:3px;">
+                                    </div>
+                                    <h4><span></span>WELCOME TO</h4>
+                                    <h2> TRONZADORAS MG </h2>
+                                    <h1> MACHINES <span><img class="head-img" src=" {{ asset('frontend/img/bull.png') }}" alt=""></span> STRONG </h1>
+
+                                    <div class="slider-area-btn">
+                                        <a href="{{ url('all-products') }}" class="btn btn-type-1">Products <i class="fa fa-long-arrow-right"></i> </a>
+                                        <a href="https://www.youtube.com/watch?v=IqRL0xSYh30" class="btn btn-type-2 slider-popup"><i class="fa fa-play"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="exomos-single-slider">
+            <div class="slid-bg-3"></div>
+            <div class="exomos-single-table">
+                <div class="exomos-single-tablecell">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-12 col-lg-12 col-md-12 al-cnt">
+                                <div class="exomos-slider-area-content">
+                                    <div style="width:150px; height:auto; background-color:grey;   right: 0.6em; position: absolute; bottom: 4em;">
+                                        <img src="{{ asset('frontend/img/future.jpg') }}" alt="" style="padding:3px;">
+                                    </div>
+                                    <h4><span></span>WELCOME TO</h4>
+                                    <h2> TRONZADORAS MG </h2>
+                                    <h1> MACHINES <span><img class="head-img" src=" {{ asset('frontend/img/bull.png') }}" alt="bull"></span> STRONG </h1>
+
+                                    <div class="slider-area-btn">
+                                        <a href="{{ url('all-products') }}" class="btn btn-type-1">Products <i class="fa fa-long-arrow-right"></i> </a>
+                                        <a href="https://www.youtube.com/watch?v=IqRL0xSYh30" class="btn btn-type-2 slider-popup"><i class="fa fa-play"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- exomos slider area end -->
+
+
+
+<!-- exomos videos area start -->
+<div id="exomos-videos-area" class="exomos-videos-area mt-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title wow fadeInRight">
+
+                    <h4> TRONZADORAS MG</h4>
+                    <h3> SINCE 1972 </h3>
+
+                </div>
+
+            </div>
+        </div>
+        <div class="videos-wraper-area">
+            <div class="videos-single-box">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 videos-bg-img">
+                            <!-- <video width="100%" controls>
+                                <source src="{{ asset('frontend/img/video.mp4') }}" type="video/mp4">
+                            </video> -->
+                            <img src="{{ asset('frontend/img/about-pic.jpg') }}" alt="product image">
+                        </div>
+
+                        <div class="face2 col-lg-6 col-md-12 wow fadeInRight">
+                            <div class="videos-content-area">
+                                <h4>ABOUT US </h4>
+                                <P> Tronzadoras MG is one of the leading companies in Spain and in Europe specializing in
+                                    the field of window and door machines required for manufacturing Aluminium and uPVC
+                                    windows and doors. With a rich history of 50 years, we have become the sought-after
+                                    solution providers with more than 200,000 machines working worldwide and counting...
+                                </P>
+                                <a href="{{ url('about-us') }}" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+<!-- exomos videos area end -->
+
+
+<!-- products -->
+<!-- <section class="product-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 face-1">
+                <h1> Our Products </h1>
+                <p> MG Aluminium windows and doors fabrication equipment’s feature’s high reliability
+                    and accuracy in the manufacturing process.
+                </p>
+                <p> With our wealth of knowledge of the windows and doors industry,
+                    we provide state-of-the-art machinery for working on Aluminium and uPVC profiles.
+                    We provide Window and Door producers with Aluminium profile cutting machines
+                    like Single and Double Head Saw Cutting machines, Automatic Saw cutting machines,
+                    Machining centers ...
+                </p>
+                <a href="{{ url('all-products') }}" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+            </div>
+
+            <div class="col-lg-6 face-2">
+                <img src="{{ asset('frontend/img/product.jpg') }}" alt="product image">
+            </div>
+        </div>
+    </div>
+</section> -->
+
+<!--// products -->
+
+
+<!-- ===========================
+        Featured Product Start
+     =========================== -->
+<section class="featured-product-area">
+
+
+    <div class="container">
+        <h2> Featured Products </h2>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="feature-slider" class="owl-carousel">
+                @foreach ($cate as $ca)
+                    <div class="post-slide">
+                        <div class="product-grid">
+                            <div class="product-image">
+                                <a href="#" class="image">
+                                    <img src="{{ url('/storage/'.$ca->tumb) }}">
+                                </a>
+                                <!-- <a class="product-like-icon" href="#"><i class="far fa-heart"></i></a>
+                                <span class="product-sale-label">sale!</span> -->
+                                <a class="add-cart" href="{{ url('products/sub',$ca->id) }}"> More </a>
+                            </div>
+                            <div class="product-content">
+                                <h3 class="title"><a href="{{ url('products/sub',$ca->id) }}"> {{ $ca->name }}</a></h3>
+
+                            </div>
+                        </div>
+                    </div>
+                @endforeach
+
+                    
+
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+                <img src="http://mgsaws.com/storage/product/20211102050746.jpg" alt="product image">
+            </div>
+
+            <div class="swiper-slide">
+                <img src="http://mgsaws.com/storage/product/20211102050746.jpg" alt="product image">
+            </div>
+
+            <div class="swiper-slide">
+                <img src="http://mgsaws.com/storage/product/20211102050746.jpg" alt="product image">
+            </div>
+
+            <div class="swiper-slide">
+                <img src="http://mgsaws.com/storage/product/20211102050746.jpg" alt="product image">
+            </div>
+
+
+
+
+
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
+    </div> -->
+
+</section>
+<!-- ===========================
+        Featured Product End
+     =========================== -->
+
+
+
+
+<!-- exomos counter area start -->
+<section class="counter-area">
+    <div class="container">
+
+        <div id="exomos-counter-area" class="exomos-counter-area">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 wow fadeInRight" data-wow-delay=".2s">
+                        <div class="single-counter">
+                            <div class="counter-box">
+                                <img src="{{ asset('frontend/img/countries.gif') }}" alt="countries">
+                                <span class="counter">30</span>
+                                <span>+</span>
+                            </div>
+                            <h4>Countries</h4>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 wow fadeInRight" data-wow-delay=".3s">
+                        <div class="single-counter">
+                            <div class="counter-box">
+                                <img src=" {{ asset('frontend/img/employees.gif') }}" alt="employees">
+                                <span class="counter">78</span>
+
+                            </div>
+                            <h4>Employees</h4>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 wow fadeInRight" data-wow-delay=".4s">
+                        <div class="single-counter">
+                            <div class="counter-box">
+                                <img src=" {{ asset('frontend/img/customers.gif') }}" alt="customers">
+                                <span class="counter">4</span>
+                                <span>K</span>
+                            </div>
+                            <h4>Customers</h4>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 wow fadeInRight" data-wow-delay=".5s">
+                        <div class="single-counter">
+                            <div class="counter-box">
+                                <img src="{{ asset('frontend/img/export.gif') }}" alt="Exports">
+                                <span class="counter">60</span>
+                                <span>%</span>
+                            </div>
+                            <h4>Exports</h4>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</section>
+
+<!--// exomos counter area end -->
+
+<!-- USP -->
+<section class="usp-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 face-1">
+                <h1> Our USP </h1>
+
+                <p> We keep the largest stock of Single Head Saw cutting machines along with other
+                    product ranges. Order to delivery time frame is minimalist so that our customers
+                    can get the machines at the least time with better quality.
+                </p>
+
+            </div>
+
+            <div class="col-lg-6 face-2">
+                <img src="{{ asset('frontend/img/usp.jpg') }}" alt="product image">
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!--// USP -->
+
+<section class="history-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card-1">
+                    <div class="body">
+                        <div class="cd-horizontal-timeline loaded">
+                            <div class="timeline">
+                                <div class="events-wrapper">
+                                    <div class="events" style="width: 1800px;">
+                                        <ol>
+                                            <li><a href="#0" data-date="16/01/2017" class="older-event selected" style="left: 60px;">1970</a></li>
+                                            <li><a href="#0" data-date="17/01/2017" style="left: 200px;" class="">1980</a></li>
+                                            <li><a href="#0" data-date="18/01/2017" style="left: 500px;" class="older-event"> 1990 </a></li>
+                                            <li><a href="#0" data-date="19/01/2017" style="left: 600px;"> 2000 </a></li>
+                                            <li><a href="#0" data-date="20/01/2017" style="left: 780px;"> 2010 </a></li>
+                                            <li><a href="#0" data-date="21/01/2017" style="left: 960px;"> 2020 </a></li>
+                                            <!--<li><a href="#0" data-date="22/01/2017" style="left: 1020px;"> 1978  </a></li>
+                                            <li><a href="#0" data-date="23/01/2017" style="left: 1200px;">  1979</a></li> --
+                                            <li><a href="#0" data-date="24/01/2017" style="left: 1380px;"> 1980  </a></li>
+                                            <!-- <li><a href="#0" data-date="25/01/2017" style="left: 1500px;"> 1981  </a></li>
+                                            <li><a href="#0" data-date="26/01/2017" style="left: 1680px;">1982 </a></li>
+                                            <li><a href="#0" data-date="27/01/2017" style="left: 1680px;">1983 </a></li>
+                                            <li><a href="#0" data-date="28/01/2017" style="left: 1680px;">1984 </a></li> --
+                                            <li><a href="#0" data-date="29/01/2017" style="left: 1680px;">1985 </a></li>
+                                            <!-- <li><a href="#0" data-date="30/01/2017" style="left: 1680px;">1986 </a></li>
+                                            <li><a href="#0" data-date="31/01/2017" style="left: 1680px;">1987 </a></li>
+                                            <li><a href="#0" data-date="01/02/2017" style="left: 1680px;">1988 </a></li>
+                                            <li><a href="#0" data-date="02/02/2017" style="left: 1680px;">1989</a></li> --
+                                            <li><a href="#0" data-date="03/02/2017" style="left: 1680px;">1990 </a></li>
+                                            <!-- <li><a href="#0" data-date="04/02/2017" style="left: 1680px;">1991 </a></li>
+                                            <li><a href="#0" data-date="05/02/2017" style="left: 1680px;">1992 </a></li>
+                                            <li><a href="#0" data-date="06/02/2017" style="left: 1680px;">1993 </a></li>
+                                            <li><a href="#0" data-date="07/02/2017" style="left: 1680px;">1994 </a></li> --
+                                            <li><a href="#0" data-date="08/02/2017" style="left: 1680px;">1995 </a></li>
+                                            <!-- <li><a href="#0" data-date="09/02/2017" style="left: 1680px;">1996 </a></li>
+                                            <li><a href="#0" data-date="10/02/2017" style="left: 1680px;">1997 </a></li> 
+                                            <li><a href="#0" data-date="11/02/2017" style="left: 1680px;">1998 </a></li>
+                                            <li><a href="#0" data-date="12/02/2017" style="left: 1680px;">1999 </a></li> --
+                                            <li><a href="#0" data-date="13/02/2017" style="left: 1680px;">2000 </a></li>
+                                            <!-- <li><a href="#0" data-date="14/02/2017" style="left: 1680px;">2001 </a></li>
+                                            <li><a href="#0" data-date="15/02/2017" style="left: 1680px;">2002 </a></li>
+                                            <li><a href="#0" data-date="16/02/2017" style="left: 1680px;">2003 </a></li>
+                                            <li><a href="#0" data-date="17/02/2017" style="left: 1680px;">2004 </a></li> --
+                                            <li><a href="#0" data-date="18/02/2017" style="left: 1680px;">2005 </a></li>
+                                            <!-- <li><a href="#0" data-date="19/02/2017" style="left: 1680px;">2006 </a></li>
+                                            <li><a href="#0" data-date="20/02/2017" style="left: 1680px;">2007 </a></li>
+                                            <li><a href="#0" data-date="21/02/2017" style="left: 1680px;">2008 </a></li>
+                                            <li><a href="#0" data-date="22/02/2017" style="left: 1680px;">2009 </a></li> --
+                                            <li><a href="#0" data-date="23/02/2017" style="left: 1680px;">2010 </a></li>
+                                            <!-- <li><a href="#0" data-date="24/02/2017" style="left: 1680px;">2011 </a></li>
+                                            <li><a href="#0" data-date="25/02/2017" style="left: 1680px;">2012 </a></li>
+                                            <li><a href="#0" data-date="26/02/2017" style="left: 1680px;">2013 </a></li>
+                                            <li><a href="#0" data-date="27/02/2017" style="left: 1680px;">2014 </a></li> --
+                                            <li><a href="#0" data-date="28/02/2017" style="left: 1680px;">2015 </a></li>
+                                            <!-- <li><a href="#0" data-date="01/03/2017" style="left: 1680px;">2016 </a></li>
+                                            <li><a href="#0" data-date="02/03/2017" style="left: 1680px;">2017 </a></li>
+                                            <li><a href="#0" data-date="03/03/2017" style="left: 1680px;">2018 </a></li>
+                                            <li><a href="#0" data-date="04/03/2017" style="left: 1680px;">2019 </a></li> --
+                                            <li><a href="#0" data-date="05/03/2017" style="left: 1680px;">2020 </a></li>
+                                            <!-- <li><a href="#0" data-date="06/03/2017" style="left: 1680px;">2021 </a></li> -->
+                                        </ol>
+                                        <span class="filling-line" aria-hidden="true" style="transform: scaleX(0.281506);"></span>
+                                    </div>
+                                    <!-- .events -->
+                                </div>
+                                <!-- .events-wrapper -->
+                                <ul class="cd-timeline-navigation">
+                                    <li><a href="#0" class="prev inactive"> <i class="fas fa-angle-left"></i> </a></li>
+                                    <li><a href="#0" class="next"> <i class="fas fa-angle-right"></i> </a></li>
+                                </ul>
+                                <!-- .cd-timeline-navigation -->
+                            </div>
+                            <!-- .timeline -->
+                            <div class="events-content">
+                                <ol>
+                                    <li class="" data-date="16/01/2017">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                                <img src="{{ asset('frontend/img/history2.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1970 a long established fact that a reader will be distracted
+                                                    by the readable content of a page when looking at its layout.
+                                                    The point of using Lorem Ipsum is that it has a more-or-less
+                                                    normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+
+
+                                        </div>
+                                    </li>
+
+                                    <li data-date="17/01/2017" class="">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                                <img src="{{ asset('frontend/img/history3.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1980 is a long established fact that a reader will be distracted
+                                                    by the readable content of a page when looking at its layout.
+                                                    The point of using Lorem Ipsum is that it has a more-or-less
+                                                    normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+
+
+                                        </div>
+                                    </li>
+                                    <li data-date="18/01/2017" class="selected">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                                <img src="{{ asset('frontend/img/history4.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1990 is a long established fact that a reader will be distracted
+                                                    by the readable content of a page when looking at its layout.
+                                                    The point of using Lorem Ipsum is that it has a more-or-less
+                                                    normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+
+
+                                        </div>
+                                    </li>
+                                    <li data-date="19/01/2017">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                                <img src="{{ asset('frontend/img/2000.png') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>2000 is a long established fact that a reader will be distracted
+                                                    by the readable content of a page when looking at its layout.
+                                                    The point of using Lorem Ipsum is that it has a more-or-less
+                                                    normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+
+
+                                        </div>
+                                    </li>
+                                    <li data-date="20/01/2017">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                                <img src="{{ asset('frontend/img/2010.png') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>2010 is a long established fact that a reader will be distracted
+                                                    by the readable content of a page when looking at its layout.
+                                                    The point of using Lorem Ipsum is that it has a more-or-less
+                                                    normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+
+
+                                        </div>
+                                    </li>
+                                    <li data-date="21/01/2017">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                                <img src="{{ asset('frontend/img/2020.png') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>2020 is a long established fact that a reader will be distracted
+                                                    by the readable content of a page when looking at its layout.
+                                                    The point of using Lorem Ipsum is that it has a more-or-less
+                                                    normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+
+
+                                        </div>
+                                    </li>
+                                    <!-- <li data-date="22/01/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history7.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>1978 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                    </li>
+                                    <li data-date="23/01/2017">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                            <img src="{{ asset('frontend/img/history8.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                        <div class="col-lg-6 event-secnd">
+                                                <p>1979 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                    </li> --
+                                    <li data-date="24/01/2017">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                            <img src="{{ asset('frontend/img/history9.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>1980 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                    </li>
+                                    <!-- <li data-date="25/01/2017">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                            <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>1981 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                    </li>
+                                    <li data-date="26/01/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                      <img src="{{ asset('frontend/img/history2.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1982 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+                                    <li data-date="27/01/2017">
+                                        <div class="row">
+                                        <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history3.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1983 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+                                    <li data-date="28/01/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                          <img src="{{ asset('frontend/img/history4.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1984 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li> --
+
+
+                                    
+                                    <li data-date="29/01/2017">
+                                        <div class="row">
+                                       <div class="col-lg-6 event-first">
+                                         <img src="{{ asset('frontend/img/history5.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1985 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <!-- <li data-date="30/01/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                          <div class="col-lg-6 event-secnd">
+                                                <p>1986 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="31/01/2017">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>1987 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="01/02/2017">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1988 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="02/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                         <div class="col-lg-6 event-secnd">
+                                                <p>1989 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li> --
+
+
+                                    <li data-date="03/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1990 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <!-- <li data-date="04/02/2017">
+                                        <div class="row">
+                                        <div class="col-lg-6 event-first">
+                                          <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                          <div class="col-lg-6 event-secnd">
+                                                <p>1991 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="05/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>1992 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="06/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                          <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1993 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="07/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1994 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li> --
+
+
+                                    <li data-date="08/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>1995 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <!-- <li data-date="09/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                          <div class="col-lg-6 event-secnd">
+                                                <p>1996 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="10/02/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>1997 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="11/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                         <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                          <div class="col-lg-6 event-secnd">
+                                                <p>1998 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="12/02/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>1999 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li> --
+
+
+                                    <li data-date="13/02/2017">
+                                        <div class="row">
+                                        <div class="col-lg-6 event-first">
+                                          <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>2000 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <!-- <li data-date="14/02/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                       <div class="col-lg-6 event-secnd">
+                                                <p>2001 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="15/02/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                         <div class="col-lg-6 event-secnd">
+                                                <p>2002 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="16/02/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>2003 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="17/02/2017">
+                                        <div class="row">
+                                         <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                         <div class="col-lg-6 event-secnd">
+                                                <p>2004 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li> --
+
+
+                                    <li data-date="18/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                        <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                          <div class="col-lg-6 event-secnd">
+                                                <p>2005 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+<!-- 
+                                    <li data-date="19/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>2006 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="20/02/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                          <div class="col-lg-6 event-secnd">
+                                                <p>2007 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="21/02/2017">
+                                        <div class="row">
+                                            <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>2008 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="22/02/2017">
+                                        <div class="row">
+                                         <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>2009 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li> --
+
+
+                                    <li data-date="23/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>2010 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+<!-- 
+                                    <li data-date="24/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                       <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                           <div class="col-lg-6 event-secnd">
+                                                <p>2011 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="25/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                            <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                        <div class="col-lg-6 event-secnd">
+                                                <p>2012 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="26/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                          <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                          <div class="col-lg-6 event-secnd">
+                                                <p>2013 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="27/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                            <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                        <div class="col-lg-6 event-secnd">
+                                                <p>2014 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li> --
+
+
+                                    <li data-date="28/02/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                        <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                         <div class="col-lg-6 event-secnd">
+                                                <p>2015 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+<!-- 
+                                    <li data-date="01/03/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                         <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                        <div class="col-lg-6 event-secnd">
+                                                <p>2016 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="02/03/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                            <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                         <div class="col-lg-6 event-secnd">
+                                                <p>2017 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="03/03/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                         <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>2018 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+
+
+                                    <li data-date="04/03/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                           <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                             <div class="col-lg-6 event-secnd">
+                                                <p>2019 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li> --
+
+
+                                    <li data-date="05/03/2017">
+                                        <div class="row">
+                                          <div class="col-lg-6 event-first">
+                                         <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>2020 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li>
+                                    <!-- <li data-date="06/03/2017">
+                                        <div class="row">
+                                           <div class="col-lg-6 event-first">
+                                         <img src="{{ asset('frontend/img/history1.jpg') }}" alt="">
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-6 event-secnd">
+                                                <p>2021 is a long established fact that a reader will be distracted 
+                                                    by the readable content of a page when looking at its layout.
+                                                     The point of using Lorem Ipsum is that it has a more-or-less 
+                                                     normal distribution of letters.
+                                                    <br>
+                                                    <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+                                                </p>
+                                            </div>
+                                          
+                                           
+                                        </div>
+                                        
+                                    </li> -->
+
+
+
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Foundation area end -->
+<section class="foundation-area">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-12 found-face1 py-5">
+                <h1> THE FOUNDATION </h1>
+                <p> In 1992 Barcelona hosted the Olympic games. Much of the area around the city was changing during that time and by then the Industrial district where Tronzadoras MG began 32 years ago was changing into a residential district.
+                </p>
+                <!-- <a href="#" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a> -->
+            </div>
+            <div class="col-lg-6 found-face2 py-5 px-5">
+                <div class="corner"></div>
+                <img src="{{ asset('frontend/img/foundation.jpg') }}" alt="">
+            </div>
+            <div class="col-lg-6 found-face2 py-5 px-5">
+                <div class="corner"></div>
+                <img src="{{ asset('frontend/img/new.jpg') }}" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+<!--// Foundation area end -->
+
+
+<!-- philosophy area start --
+<section class="philosophy-area">
+    <div class="container">
+        <div class="row">
+          
+         
+            <div class="col-lg-6 philosophy-face2">
+                <div class="corner"></div>
+                <img src=" {{ asset('frontend/img/new.jpg') }}" alt="">
+                
+            </div>
+
+            <div class="col-lg-6 philosophy-face1 non-aft">
+                <h1>   PHILOSOPHY </h1>
+                <p> Continuing the tradition from the original founders, Tronzadoras MG remains 
+                    a family company with the aim to grow but keeping a family treating of its 
+                    customers and long time friends</p>
+                    <!--ul>
+                        <li> <i class="far fa-check-circle"></i> Lorem ipsum dolor sit amet  </li>
+                        <li> <i class="far fa-check-circle"></i> Dolor ipsum consectetur  </li>
+                        <li> <i class="far fa-check-circle"></i> Amet ipsum  sit, dolor  </li>
+                        <li> <i class="far fa-check-circle"></i> Consectetur ipsum  amet   </li>
+                    </ul--
+                 
+                            </div>
+                            
+                            
+        </div>
+    </div>
+</section>
+<!--// philosophy area end -->
+
+
+
+<!-- 50 years area end -->
+<section class="future-area">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-6 future-face1">
+                <h1> FUTURE PERSPECTIVE </h1>
+                <p> The production processes are continously changing and improving,
+                    and it is a necessity and a demand for any machinery producer
+                    to follow the requirements of the customers, who guides the
+                    production directions..</p>
+
+                <a href="{{ url('about-us') }}" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+            </div>
+            <div class="col-lg-6 future-face2">
+                <div class="corner"></div>
+                <img src="  {{ asset('frontend/img/future.jpg') }}" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+<!--// 50 years area end -->
+
+<!-- =========================
+       Gallery area start
+     ======================== -->
+<section class="gallery-area">
+    <div class="container">
+
+        <h2> Gallery </h2>
+        <div class="filters filter-button-group">
+            <ul>
+                <li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
+                @foreach ($cate as $cat)
+                <li><a href="javascript:void(0);" data-filter="{{ $cat->id}}"> {{ $cat->name }} </a></li>
+                @endforeach
+                <!--li><a href="javascript:void(0);" data-filter="miter"> AUTOMATIC MITER SAW </a></li>
+                <li><a href="javascript:void(0);" data-filter="centers"> MACHINING CENTERS </a></li>
+                <li><a href="javascript:void(0);" data-filter="routers"> COPY ROUTERS </a></li>
+                <li><a href="javascript:void(0);" data-filter="milling"> END MILLNG MACHINES </a></li>
+                <li><a href="javascript:void(0);" data-filter="presses"> PRESSES </a></li>
+                <li><a href="javascript:void(0);" data-filter="cleaners"> VACUUM CLEANERS </a></li>
+                <li><a href="javascript:void(0);" data-filter="system"> POSITIONINIG SYSTEMS </a></li>
+                <li><a href="javascript:void(0);" data-filter="crimping"> CRIMPING MACHINES </a></li>
+                <li><a href="javascript:void(0);" data-filter="tables"> ASSEMBLY TABLES </a></li>
+                <li><a href="javascript:void(0);" data-filter="charts"> PROFILE CHARTS </a></li-->
+            </ul>
+        </div>
+        <div id="container" class="isotope">
+        @foreach ($prod as $catt)
+            <div class="grid-item" data-filter="{{ $catt->category }}">
+                <a class="popupimg" href=" {{ url('/storage/'.$catt->image) }}">
+                    <img src=" {{ url('/storage/'.$catt->image) }}">
+                </a>
+                <div class="overlay"> {{ $catt->name }} </div>
+            </div>
+        @endforeach
+           
+
+        </div>
+    </div>
+</section>
+<!-- =========================
+       Gallery area end
+     ======================== -->
+
+<!-- =========================
+       Testimonialas start
+     ======================== -->
+<section class="testimonial-area">
+
+    <div class="container">
+        <h2> Testimonials </h2>
+        <div class="row">
+
+            <div class="col-md-12">
+
+                <div id="testimonial-slider" class="owl-carousel">
+
+                    <div class="testimonial">
+                        <div class="pic">
+                            <img src="{{ asset('frontend/img/man.png') }}" alt="">
+                        </div>
+                        <div class="testimonial-content">
+                            <h3 class="testimonial-title">Williamson
+                                <small class="post">Web Designer</small>
+                            </h3>
+                            <p class="description">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquam amet animi blanditiis consequatur debitis dicta distinctio, enim error eum iste libero modi nam natus perferendis possimus quasi sint sit tempora voluptatem. Est, exercitationem id ipsa ipsum laboriosam perferendis temporibus!
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <div class="testimonial">
+                        <div class="pic">
+                            <img src="{{ asset('frontend/img/man.png') }}" alt="">
+                        </div>
+                        <div class="testimonial-content">
+                            <h3 class="testimonial-title">Williamson
+                                <small class="post">Web Designer</small>
+                            </h3>
+                            <p class="description">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquam amet animi blanditiis consequatur debitis dicta distinctio, enim error eum iste libero modi nam natus perferendis possimus quasi sint sit tempora voluptatem. Est, exercitationem id ipsa ipsum laboriosam perferendis temporibus!
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <div class="testimonial">
+                        <div class="pic">
+                            <img src="{{ asset('frontend/img/man.png') }}" alt="">
+                        </div>
+                        <div class="testimonial-content">
+                            <h3 class="testimonial-title">Williamson
+                                <small class="post">Web Designer</small>
+                            </h3>
+                            <p class="description">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquam amet animi blanditiis consequatur debitis dicta distinctio, enim error eum iste libero modi nam natus perferendis possimus quasi sint sit tempora voluptatem. Est, exercitationem id ipsa ipsum laboriosam perferendis temporibus!
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <div class="testimonial">
+                        <div class="pic">
+                            <img src="{{ asset('frontend/img/man.png') }}" alt="">
+                        </div>
+                        <div class="testimonial-content">
+                            <h3 class="testimonial-title">Williamson
+                                <small class="post">Web Designer</small>
+                            </h3>
+                            <p class="description">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquam amet animi blanditiis consequatur debitis dicta distinctio, enim error eum iste libero modi nam natus perferendis possimus quasi sint sit tempora voluptatem. Est, exercitationem id ipsa ipsum laboriosam perferendis temporibus!
+                            </p>
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+<!-- =========================
+   Testimonialas end
+ ======================== -->
+
+<!-- exomos blog area start -->
+<div id="exomos-blog-area" class="exomos-blog-area blog-bg mt-100 pt-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="section-title wow fadeInRight lite">
+                    <h4>recent news</h4>
+                    <h3>news & events</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+
+            @foreach ($events as $event)
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 wow fadeInUp">
+
+                <div class="single-blog-wraper mb-30">
+                    <div class="blog-img">
+                        <!-- <img src=" {{ url('/storage/'.$event->image) }}" alt="blog-img"> -->
+                        <img src=" http://mgsaws.com/storage/event/20211116120536.jpg" alt="blog-img">
+                    </div>
+
+                    <div class="single-blog-content">
+                        <div class="blog-post-comment">
+                            <div class="blog-post-admininfo">
+                                <span><a href="#">{{ $event->created_at->format('Y-m-d') }}</a></span>
+                            </div>
+
+
+                        </div>
+                        <h3 href="#" class="post-title"> {{ Str::limit($event->name , 40) }} </h3>
+                        <p>{!! Str::limit($event->detail, 100) !!}</p>
+                        <a href="{{ url('news-details',$event->id) }}" class="news-more"> Read More <i class="fa fa-long-arrow-right"></i> </a>
+                    </div>
+                </div>
+
+            </div>
+            @endforeach
+
+
+
+            <div class="buttn">
+                <a href="{{ url('news-and-events') }}" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
+            </div>
+
+        </div>
+
+
+
+    </div>
+</div>
+<!-- exomos blog area end -->
+
+
+
+
+<div class="spacer"></div>
+
+
+
+
+
+<!-- =========================
+       clients logos start
+     ======================== -->
+<section class="clients-area">
+    <div class="container">
+
+        <h2> Our Clients </h2>
+
+        <div class="logo-slider">
+
+
+
+            <div class="item">
+                <a>
+                    <img src="{{ asset('frontend/img/safari.jpg') }}" loading="lazy" alt="yesclean">
+                </a>
+            </div>
+
+
+            <div class="item">
+                <a>
+                    <img src="{{ asset('frontend/img/safari.jpg') }}" loading="lazy" alt="yesclean">
+                </a>
+            </div>
+
+
+            <div class="item">
+                <a>
+                    <img src="{{ asset('frontend/img/safari.jpg') }}" loading="lazy" alt="yesclean">
+                </a>
+            </div>
+
+
+            <div class="item">
+                <a>
+                    <img src="{{ asset('frontend/img/safari.jpg') }}" loading="lazy" alt="yesclean">
+                </a>
+            </div>
+
+
+            <div class="item">
+                <a>
+                    <img src="{{ asset('frontend/img/safari.jpg') }}" loading="lazy" alt="yesclean">
+                </a>
+            </div>
+
+
+            <div class="item">
+                <a>
+                    <img src="{{ asset('frontend/img/safari.jpg') }}" loading="lazy" alt="yesclean">
+                </a>
+            </div>
+
+
+            <div class="item">
+                <a>
+                    <img src="{{ asset('frontend/img/safari.jpg') }}" loading="lazy" alt="yesclean">
+                </a>
+            </div>
+
+
+            <div class="item">
+                <a>
+                    <img src="{{ asset('frontend/img/safari.jpg') }}" loading="lazy" alt="yesclean">
+                </a>
+            </div>
+
+
+
+
+
+
+        </div>
+    </div>
+</section>
+<!-- =========================
+       clients logos end
+     ======================== -->
+
+
+<!-- exomos testimonial area start 
+        <div id="exomos-testimonial-area" class="exomos-testimonial-area mb-100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12 col-md-12 wow fadeInRight">
+                        <div class="section-title">
+                            <h4>testimonials</h4>
+                            <h3>client’s say</h3>
+                        </div>
+                        <div class="testimonial-wraper  owl-carousel owl-theme">
+
+                            <div class="single-testimonial">
+                                <div class="testimonial-content">
+                                    <div class="testimonial-title-img">
+                                        <div class="testimonial-img">
+                                            <img src=" {{ asset('frontend/img/testimoni.jpg') }}" class="img-fluid" alt="testimonial-img">
+                                        </div>
+
+                                        <div class="title-desig">
+                                            <h3>mark man</h3>
+                                            <h4>designer</h4>
+                                        </div>
+                                    </div>
+                                 
+                                </div>
+                                <p>dummy text of the printing and type setting and industry. 
+                                    rem Ipsum has been the Lorem ipsum, or lipsum as it some times known, 
+                                    is dummy text used in laying print</p>
+                            </div>
+ 
+                            <div class="single-testimonial">
+                                <div class="testimonial-content">
+                                    <div class="testimonial-title-img">
+                                        <div class="testimonial-img">
+                                            <img src="{{ asset('frontend/img/testimoni.jpg') }}" class="img-fluid" alt="testimonial-img">
+                                        </div>
+
+                                        <div class="title-desig">
+                                            <h3>mark man</h3>
+                                            <h4>designer</h4>
+                                        </div>
+                                    </div>
+                                 
+                                </div>
+                                <p>dummy text of the printing and type setting and industry. 
+                                    rem Ipsum has been the Lorem ipsum, or lipsum as it some times known, 
+                                    is dummy text used in laying print</p>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+
+@endsection
