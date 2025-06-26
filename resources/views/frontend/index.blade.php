@@ -157,7 +157,7 @@
                                     fabrication machines that can meet our customer's needs and that can help
                                     them to achieve a precise results. Keeping Customer Satisfaction as the
                                     primary focus, we are renowned for better performance and quality <a href="{{ route('sub','automatic-cutting-and-drilling') }}" style="color:#c42414;">Aluminum
-                                    Cutting & Drilling Machine </a> Manufacturers and Suppliers in GCC.</p>
+                                        Cutting & Drilling Machine </a> Manufacturers and Suppliers in GCC.</p>
 
                                 <a href="{{ url('about-us') }}" class="btn btn-type-1"> View More <i class="fa fa-long-arrow-right"></i> </a>
                             </div>
@@ -282,7 +282,9 @@
                     <span class="service-icon">
                         <i class="fa fa-globe"></i>
                     </span>
-                   <a href="{{ route('sub','single-head-cutting-machine') }}"><h3 class="title"> Single Head Cutting Machine </h3></a>
+                    <a href="{{ route('sub','single-head-cutting-machine') }}">
+                        <h3 class="title"> Single Head Cutting Machine </h3>
+                    </a>
                     <p class="description">
                         We manufacture aluminum cutting machines with a single saw. We have Manual,
                         Semi-automatic, and Automatic Single saw cutting machines.
@@ -299,7 +301,9 @@
                     <span class="service-icon">
                         <i class="fa fa-briefcase"></i>
                     </span>
-                     <a href="{{ route('sub','automatic-cutting') }}"><h3 class="title"> Automatic Cutting </h3></a>
+                    <a href="{{ route('sub','automatic-cutting') }}">
+                        <h3 class="title"> Automatic Cutting </h3>
+                    </a>
                     <p class="description">
                         We are crafting high-precision machines ranging from 90-degree angle automatic
                         cutting machines to automatic drilling and cutting machines to GAA Solar - cutting
@@ -318,7 +322,9 @@
                     <span class="service-icon">
                         <i class="fa fa-globe"></i>
                     </span>
-                    <a href="{{ route('sub','automatic-cutting-and-drilling') }}"><h3 class="title"> Automatic Cutting 90 + Drilling </h3></a>
+                    <a href="{{ route('sub','automatic-cutting-and-drilling') }}">
+                        <h3 class="title"> Automatic Cutting 90 + Drilling </h3>
+                    </a>
                     <p class="description">
                         90-degree Aluminium automatic cutting saw with Cutting advance adjustable,
                         adjustable feeding speed, and polycarbonate shield, which can cut at 90 degrees.
@@ -334,7 +340,9 @@
                     <span class="service-icon">
                         <i class="fa fa-globe"></i>
                     </span>
-                    <a href="{{ route('sub','automatic-miter-cutting') }}"><h3 class="title"> Automatic Miter Cutting </h3></a>
+                    <a href="{{ route('sub','automatic-miter-cutting') }}">
+                        <h3 class="title"> Automatic Miter Cutting </h3>
+                    </a>
                     <p class="description">
                         CNC Fully automatic feeding and miter cutting saw which can cut at 45º/90º/45º angle.
                         Automatic feeding, cutting, and angle turning with a TCT blade that is included in the machine.
@@ -350,7 +358,9 @@
                     <span class="service-icon">
                         <i class="fa fa-briefcase"></i>
                     </span>
-                    <a href="{{ route('sub','machining-centers') }}"><h3 class="title"> Machining Centers </h3></a>
+                    <a href="{{ route('sub','machining-centers') }}">
+                        <h3 class="title"> Machining Centers </h3>
+                    </a>
                     <p class="description">
                         We are manufacturing machining centers that have moving columns and a vertical spindle with 4 axis.
                         They are controlled by CNC including rotation of the clamp base which allows processing at
@@ -369,7 +379,9 @@
                     <span class="service-icon">
                         <i class="fa fa-globe"></i>
                     </span>
-                    <a href="{{ route('sub','double-head-cutting-machine') }}"><h3 class="title"> Double Head Cutting Machine </h3></a>
+                    <a href="{{ route('sub','double-head-cutting-machine') }}">
+                        <h3 class="title"> Double Head Cutting Machine </h3>
+                    </a>
                     <p class="description">
                         Our double-head miter saws for Aluminum cutting are included with a TCT cutting
                         blade which has a Cutting angle capacity of 45º / 90º / + 45º and one programmable axis
@@ -675,10 +687,11 @@
         <div id="container" class="isotope">
             @foreach ($prod as $catt)
             <div class="grid-item" data-filter="{{ $catt->category }}">
-                <a class="popupimg" href=" {{ url('/storage/'.$catt->image) }}">
+                <a href="{{ route('show-product', $catt->slug) }}">
                     <img src=" {{ url('/storage/'.$catt->image) }}" alt="{{$catt->image_alt}}" title="{{$catt->image_alt}}">
+                    <div class="overlay"> {{ $catt->name }} </div>
                 </a>
-                <div class="overlay"> {{ $catt->name }} </div>
+
             </div>
             @endforeach
         </div>

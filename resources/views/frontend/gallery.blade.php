@@ -51,8 +51,7 @@
             @foreach ($pro as $catt)
             <div class="grid-item" data-filter="{{ $catt->category }}">
                 <a href=" {{ route('show-product', $catt->slug) }}">
-                    <img src="https://www.mgsaws.com/storage/product/20230109072425.webp" alt="{{$catt->image_alt}}" title="{{$catt->image_alt}}">
-                    <!-- <img src=" {{ url('/storage/'.$catt->image) }}" alt="{{$catt->image_alt}}" title="{{$catt->image_alt}}"> -->
+                    <img src=" {{ url('/storage/'.$catt->image) }}" alt="{{$catt->image_alt}}" title="{{$catt->image_alt}}">
                     <div class="overlay"> {{ $catt->name }} </div>
                 </a>
 

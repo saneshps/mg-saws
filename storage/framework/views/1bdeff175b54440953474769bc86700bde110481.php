@@ -51,8 +51,8 @@
             <?php $__currentLoopData = $pro; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $catt): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
             <div class="grid-item" data-filter="<?php echo e($catt->category); ?>">
                 <a href=" <?php echo e(route('show-product', $catt->slug)); ?>">
-                    <img src="https://www.mgsaws.com/storage/product/20230109072425.webp" alt="<?php echo e($catt->image_alt); ?>" title="<?php echo e($catt->image_alt); ?>">
-                    <!-- <img src=" <?php echo e(url('/storage/'.$catt->image)); ?>" alt="<?php echo e($catt->image_alt); ?>" title="<?php echo e($catt->image_alt); ?>"> -->
+                    <!-- <img src="https://www.mgsaws.com/storage/product/20230109072425.webp" alt="<?php echo e($catt->image_alt); ?>" title="<?php echo e($catt->image_alt); ?>"> -->
+                    <img src=" <?php echo e(url('/storage/'.$catt->image)); ?>" alt="<?php echo e($catt->image_alt); ?>" title="<?php echo e($catt->image_alt); ?>">
                     <div class="overlay"> <?php echo e($catt->name); ?> </div>
                 </a>
 
