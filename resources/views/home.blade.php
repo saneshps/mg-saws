@@ -1,6 +1,6 @@
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,8 +14,13 @@
 
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
 </head>
+
 <body>
+
+
+
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-12">
@@ -28,9 +33,10 @@
                         @csrf
                     </form>
                 </div>
-                
+
             </div>
         </div>
-    </div>   
+    </div>
 </body>
+
 </html>
